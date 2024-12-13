@@ -11,7 +11,7 @@ DesertCoin (DSC) is a cutting-edge cryptocurrency designed to empower innovation
 
 ## Vision
 
-DesertCoin is more than just a cryptocurrency. It's a movement to bridge the gap between technology and everyday users, bringing the future of finance closer to everyone.
+DesertCoin is more than a cryptocurrency; it’s a gateway to financial freedom and innovation. Our vision is to create a truly decentralized ecosystem that bridges the gap between technology and everyday life, empowering individuals and communities to participate in the global digital economy.
 
 ## Contract Details
 
