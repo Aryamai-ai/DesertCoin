@@ -160,3 +160,62 @@ img:hover {
   font-size: 16px;
   line-height: 1.5;
 }
+/* Contact Form Section */
+#contact-form {
+  padding: 40px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+#contact-form h2 {
+  color: #00ffc3;
+  font-size: 28px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+form .form-group {
+  margin-bottom: 15px;
+}
+
+form label {
+  display: block;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #ffffff;
+  font-size: 16px;
+}
+
+form input:focus, form textarea:focus {
+  outline: none;
+  border-color: #00ffc3;
+}
+
+form button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background: #00ffc3;
+  border: none;
+  color: #000;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background: #00b3a0;
+}
