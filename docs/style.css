@@ -128,3 +128,35 @@ img:hover {
 .fade-in {
   animation: fadeIn 1s ease-in-out;
 }
+/* FAQ Section */
+#faq {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  padding: 30px;
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+#faq h2 {
+  color: #00ffc3;
+  font-size: 28px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.faq-item h3 {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.faq-item p {
+  color: #cccccc;
+  font-size: 16px;
+  line-height: 1.5;
+}
